@@ -1,0 +1,27 @@
+{
+  "name": "laconlabs",
+  "version": "0.1.1",
+  "description": "The Website for the top in the tops design studios enterprise",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BalbuenaJuan/laconlabs.git"
+  },
+  "author": "Juan Balbuena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BalbuenaJuan/laconlabs/issues"
+  },
+  "homepage": "https://github.com/BalbuenaJuan/laconlabs#readme",
+  "devDependencies": {
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-server-livereload": "^1.9.2",
+    "gulp-tinypng": "^1.0.2",
+    "gulp-uglify": "^2.0.0",
+    "jquery": "^3.1.1"
+  }
+}
